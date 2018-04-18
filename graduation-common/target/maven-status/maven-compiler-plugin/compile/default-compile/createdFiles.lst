@@ -1,0 +1,8 @@
+com\ssx\common\service\BaseService.class
+com\ssx\common\domain\User.class
+com\ssx\common\session\HttpSessionConfig.class
+com\ssx\common\domain\BaseDomain.class
+com\ssx\common\session\RedisSessionDomainConfig.class
+com\ssx\common\domain\Result.class
+com\ssx\common\service\ABaseService.class
+com\ssx\common\domain\ResultCode.class
